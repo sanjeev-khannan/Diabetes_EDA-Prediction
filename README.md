@@ -19,13 +19,13 @@ This repository contains Exploratory Data Analysis files of Diabetes Dataset.
    :Target: Column 11 is a quantitative measure of disease progression one year after baseline
  
    :Attribute Information:
-       - age     age in years
-       - sex
-       - bmi     body mass index
-       - bp      average blood pressure
-       - s1      tc, total serum cholesterol
-       - s2      ldl, low-density lipoproteins
-       - s3      hdl, high-density lipoproteins
-       - s4      tch, total cholesterol / HDL
-       - s5      ltg, possibly log of serum triglycerides level
-       - s6      glu, blood sugar level
+   - age     age in years
+   - sex
+   - bmi     body mass index
+   - bp      average blood pressure
+   - s1      tc, total serum cholesterol
+   - s2      ldl, low-density lipoproteins
+   - s3      hdl, high-density lipoproteins
+   - s4      tch, total cholesterol / HDL
+   - s5      ltg, possibly log of serum triglycerides level
+   - s6      glu, blood sugar level
