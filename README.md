@@ -1,6 +1,6 @@
-# Diabetes_ExploratoryDataAnalyis-EDA
+# Diabetes EDA + Prediction
 
-This repository contains Exploratory Data Analysis files of Diabetes Dataset.
+This repository covers Exploratory Data Analysis and Prediction of Diabetes.
 
  Diabetes dataset
  ----------------
