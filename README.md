@@ -2,7 +2,7 @@
 
 This repository covers Exploratory Data Analysis and Prediction of Diabetes.
 
- Diabetes dataset
+ Description of Diabetes dataset used
  ----------------
  
  Ten baseline variables, age, sex, body mass index, average blood
